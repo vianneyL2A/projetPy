@@ -1,6 +1,6 @@
 # projetPy
 
-Cette API est conçue pour gérer les livres d'une bibliothèque.
+Cet API est conçue pour gérer les livres d'une bibliothèque.
 Voici les résultats que j'obtiens avec les différentes routes:
 Pour avoir tous les livres de la bibliothèque:
 /GET/livres
